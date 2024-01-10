@@ -361,3 +361,13 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Assets/Content
+/Assets/Scenes
+/Library
+/ProjectSettings
+/Server/ServerGoldMine
+/Temp
+/UserSettings
+/.vsconfig
+/Assembly-CSharp.csproj
+/ClientGoldMine.sln
